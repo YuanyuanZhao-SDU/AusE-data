@@ -12,5 +12,5 @@ Below is a detailed description of the supplementary files and workflows provide
 * **`Tunneling_correction.md`**: The explicit mathematical formula for the Wigner tunneling correction factor (κ) is provided. This allows interested readers to readily reproduce our values by applying this formula to the imaginary frequencies already reported in the main text.
 
 ### 3. Large Datasets (Releases)
-* **LMO Overlap Raw Data**: Code and raw data for some key LMOs from both the truncated and enlarged QM regions of TS2H1 and TS2rebC2 are provided. 
+* **LMO Overlap**: Code and raw data for some key LMOs from both the truncated and enlarged QM regions of TS2H1 and TS2rebC2 are provided. 
   > 📥 **Download Note:** Due to file size limits, this dataset is hosted as a compressed archive. Please navigate to the **[Releases](../../releases/latest)** section on the right sidebar of this repository to download the `.zip` file.
